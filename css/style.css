@@ -10,7 +10,9 @@
 
 .text-one {
     color: var(--tex-color);
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
 }
 
@@ -22,7 +24,9 @@
 .a1 {
     color: var(--tex-color);
     text-decoration: none;
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
 }
 
@@ -36,7 +40,9 @@
 
 .sect-1 {
     background-color: var(--bg-color);
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 44px;
 }
 
@@ -53,56 +59,76 @@
     background: #2196F3;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: var(--adress-color);
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
 }
 
 .mailto {
     color: var(--phone-color);
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 14px;
 }
 
 .tel {
     color: var(--phone-color);
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .h22 {
     background-color: var(--bge-color);
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
 }
 
 .h2 {
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 14px;
     color: black;
 }
 
 .p2 {
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 14px;
 }
 
 .H21 {
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 36px;
 }
 
 .employees-h3 {
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 16px;
 }
 
 .employees-h2 {
     text-align: center;
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 36px;
 }
 
 .twolist-h3 {
-    font-family: Roboto;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
 }
 
