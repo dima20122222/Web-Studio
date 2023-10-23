@@ -1,0 +1,108 @@
+:root {
+    --bg-color: blue;
+    --text-color:  #757575;
+    --bg-color: #2F303A;
+    --tex-color:#2196F3;
+    --adress-color:#fff;
+    --phone-color: rgba(255, 255, 255, 0.60);
+    --bge-color: #F5F4FA;
+}
+
+.text-one {
+    color: var(--tex-color);
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.p1 {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.a1 {
+    color: var(--tex-color);
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.foot {
+    background-color: var(--bg-color);
+}
+
+.adres {
+    color: var(--adress-color);
+}
+
+.sect-1 {
+    background-color: var(--bg-color);
+    font-family: Roboto;
+    font-size: 44px;
+}
+
+.text-glav {
+    color: var(--adress-color);
+}
+
+.p2 {
+    color: var(--text-color);
+}
+
+.button {
+    border-radius: 4px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: var(--adress-color);
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.mailto {
+    color: var(--phone-color);
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.tel {
+    color: var(--phone-color);
+    font-family: Roboto;
+}
+
+.h22 {
+    background-color: var(--bge-color);
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.h2 {
+    font-family: Roboto;
+    font-size: 14px;
+    color: black;
+}
+
+.p2 {
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.H21 {
+    font-family: Roboto;
+    font-size: 36px;
+}
+
+.employees-h3 {
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.employees-h2 {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+}
+
+.twolist-h3 {
+    font-family: Roboto;
+    font-size: 18px;
+}
+
